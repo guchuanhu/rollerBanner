@@ -6,7 +6,7 @@
     <title>Title</title>
     <link href="css/rollerbanner.css" rel="stylesheet" type="text/css" />
     <script src="http://libs.baidu.com/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
-    <script type="text/javascript" src="js/rollerbanner.js" ></script>
+    <script type="text/javascript" src="js/rollerBanner.js" ></script>
 </head>
 <body>
     <div class="login-con-banner">
