@@ -32,6 +32,12 @@
         <div class="roll-box">
             <div selectNum="0" class="roll"></div>
         </div>
+        <div class="triangle-box">
+            <div class="triangle-left"><l></l><z></z></div>
+            <div class="triangle-right"><l></l><z></z></div>
+            <div class="mask mask-left"></div>
+            <div class="mask mask-right"></div>
+        </div>
     </div>
 </body>
 </html>
